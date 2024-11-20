@@ -1,0 +1,16 @@
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\bin\Debug\QR Kod oluşturucu.exe.config
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\bin\Debug\QR Kod oluşturucu.exe
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\bin\Debug\QR Kod oluşturucu.pdb
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\bin\Debug\QRCoder.dll
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR_Kod_oluşturucu.Form1.resources
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR_Kod_oluşturucu.Properties.Resources.resources
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.csproj.GenerateResource.cache
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod o.AD720D3C.Up2Date
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.exe
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.pdb
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\bin\Debug\QR Kod oluşturucu.exe.manifest
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\bin\Debug\QR Kod oluşturucu.application
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.exe.manifest
+C:\Users\cagri\Desktop\Forms Kodlar\QR Kod oluşturucu\QR Kod oluşturucu\obj\Debug\QR Kod oluşturucu.application
